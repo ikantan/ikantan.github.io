@@ -10,10 +10,13 @@
         Forget_Password: "パスワードをお忘れですか？",
         Now_In: '今すぐログイン' 、
         Email: '電子メール'、
-        Email_Input: 'Eメールを入力してください。PassWord: 'PassWord'、Email: 'Email'、Email_Input: 'Email
+        Email_Input: 'Eメールを入力してください。
+        PassWord: 'PassWord'、
+        Email: 'Email'、
+        Email_Input: 'Email
         
-        PassWord_Input: 'パスワードを入力してください'、
-        ホーム: 'パーソナルセンター'、
+        PassWord_Input: 'パスワードを入力してください',
+        ホーム: 'パーソナルセンター',
         
         
         
