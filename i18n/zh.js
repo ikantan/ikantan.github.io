@@ -18,7 +18,7 @@ export default {
         Support_Country: '可用地区',
         Plan_Title: '套餐定价',
         Plan_Title11: '优惠的价格，非常好的质量',
-        Currency: 'CNY',
+        Currency: 'USD',
         GoPay: "去购买",
 
     },
