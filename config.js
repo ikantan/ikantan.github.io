@@ -12,7 +12,7 @@ window.config={
     down:[
         {
             name:"Pc",
-            title:"电脑版下载",
+            title:"Windows用ダウンロード",
             down:[
                 {title:"Clash下载",href:"https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.27/Clash.for.Windows-0.20.27-win.7z"},
                 {title:"V2ray下载",href:"https://github.com/v2ray/v2ray-core/releases/download/v4.28.2/v2ray-windows-64.zip"},
@@ -21,7 +21,7 @@ window.config={
         },
         {
             name:"Android",
-            title:"安卓手机下载",
+            title:"Android用ダウンロード",
             down:[
                 {title:"Clash下载",href:"https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.12/cfa-2.5.12-foss-arm64-v8a-release.apk"},
                 {title:"V2rayNG下载",href:"https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk"}
@@ -29,7 +29,7 @@ window.config={
         },
         {
             name:"Ios",
-            title:"苹果下载",
+            title:"iOS用ダウンロード",
             down:[
                 {title:"Shadowrocket",href:"https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh"},
                 {title:"Quantumult X",href:"https://apps.apple.com/us/app/quantumult-x/id1443988620"}
