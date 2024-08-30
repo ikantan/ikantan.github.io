@@ -4,9 +4,9 @@ window.config={
     
     // 后端网址配置
     hosturl:"https://api.ikantan.com/",
-    title:"xx-加速器",
-    title1:"快速高效与世界连接",
-    title2:"快速,可靠,信赖",
+    title:"KANTAN-VPN",
+    title1:"海外でも日本のビデオやテレビは日本と同じだ",
+    title2:"Kantanは、海外から簡単に日本のVPNに接続することができます",
 
     //   下载配置
     down:[
@@ -71,7 +71,7 @@ window.config={
     // 套餐配置
     taocan:[
         {
-            title:"基础套餐",
+            title:"VPNサブスクリプションを購入する",
             money:10,
             cent:["支持Chatpt访问","支持Netflix，台湾哔哩哔哩等流媒体","巅峰1000/MS"]
         }
