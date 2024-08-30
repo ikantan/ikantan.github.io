@@ -1,113 +1,113 @@
-export default {
+エクスポート・デフォルト
 
-    Home: {
-        Sign_In: '登录',
-        Sign_Up: '注册',
-        Sign_Title: '开启全球冲浪',
-        Sign_Title1: '没有什么可担心的，双重加密保驾护航',
-        Sign_No: "还没有注册？",
-        Go_Now_Up: '立即注册',
-        Forget_Password: "忘记密码？",
-        Now_In: '立即登录',
-        Email: '邮箱',
-        Email_Input: '请输入邮箱',
-        PassWord: '密码',
-        PassWord_Input: '请输入密码',
-        Home: '个人中心',
-        Support_Video: '支持的流媒体',
-        Support_Country: '可用地区',
-        Plan_Title: '套餐定价',
-        Plan_Title11: '优惠的价格，非常好的质量',
-        Currency: 'CNY',
-        GoPay: "去购买",
+    ホーム: {
+        Sign_In: 'ログインする'、
+        Sign_Up: '新規登録する'、
+        Sign_Title: '海外から日本の動画、日本から日本の動画', Sign_Title1: 'カンタンは日本の動画会社ではなく、日本の会社です', Sign_Title2: 'カンタンは日本の動画会社ではなく、日本の会社です', Sign_Title3: 'カンタンは日本の動画会社ではなく、日本の会社です。
+        Sign_Title1: 'カンタンは海外から日本のVPNに接続されています！Sign_No
+        Sign_No: "新規登録ですか？",
+        Go_Now_Up: '新規登録' 、
+        Forget_Password: "パスワードをお忘れですか？",
+        Now_In: '今すぐログイン' 、
+        Email: '電子メール'、
+        Email_Input: 'Eメールを入力してください。PassWord: 'PassWord'、Email: 'Email'、Email_Input: 'Email
+        
+        PassWord_Input: 'パスワードを入力してください'、
+        ホーム: 'パーソナルセンター'、
+        
+        
+        
+        Plan_Title11: '割引価格、非常に良い品質'、
+        通貨: 'USD'、
+        GoPay: '今すぐ購入'、
 
     },
-    Error: {
-        No_Sign: "请先登录",
-        Http: "配置加载失败 请刷新",
-        Email_Prompt: "账号格式错误",
-        Password_Prompt: '密码格式错误',
-        Code_Prompt: "验证码格式错误",
-        Copy: "复制失败",
-        Open: "请重新打开",
-        No_Plan: "暂未订阅",
-        No_notice: "暂无公告",
-        Withdrawal:"申请提现失败",
-        Transfer_assets:"转移资产失败"
+    エラー: {
+        No_Sign: "最初にサインインしてください、
+        Http: "設定の読み込みに失敗しました、
+        Email_Prompt: 'アカウント番号の形式が違います'、
+        Password_Prompt: 'パスワードの形式が違います', Code_Prompt: '最初にログインしてください', Http: '設定の読み込みに失敗しました。
+        Code_Prompt: 'Captcha形式のエラー'、
+        Copy: 'コピーに失敗しました、
+        
+        
+        No_notice: 「今のところ通知なし」、
+        Withdrawal: 「現金引き出しの申請に失敗しました」、
+        Transfer_assets: "資産の譲渡に失敗しました"
     },
-    Dashboard: {
-        Server: "节点在线情况",
-        Copy_Link: "订阅链接",
-        Import_Link: "一键导入",
-        Import_To:"导入到",
-        TG: "Tg售后群",
-        Bot: "Bot绑定",
-        Copy_Success: "复制成功",
-        Copy_Success_Prompt: "快去邀请新人吧",
-        Restart_Sub: "重置订阅",
-        balance: '余额',
-        commission: "佣金",
-        Transfer: "流量",
-        Use_Transfer: "已用流量",
-        Oder:"订单详情",
-        G:"工单详情",
-        Bz1:"步骤一：打开Telegram",
-        BZ1_Title:"搜索",
-        Bz2:"步骤二：向机器人发送",
-        Restart_1:"确定重置订阅吗？",
-        Restart_2:"如果你的订阅地址或信息泄露可以进行此操作。重置后你的UUID及订阅将会变更，需要重新进行订阅。",
+    ダッシュボード: {
+        Server: "ノードのオンライン状態"、
+        Copy_Link: "購読リンク"、
+        Import_Link: "ワンクリックインポート"、
+        Import_To: "インポート先"、
+        TG: "Tg アフターマーケット・グループ"、
+        Bot: "ボットバインディング"、
+        Copy_Success: "コピー成功"、
+        Copy_Success_Prompt: 「新規参加者を招待してください、
+        Restart_Sub: '購読をリセット'、
+        balance: '残高'、
+        コミッション: 'commission'、
+        Transfer: 「トラフィック」、
+        Use_Transfer: "使用済みトラフィック"、
+        Oder: "order_details"、
+        G: 「作業指示の詳細」、
+        Bz1: "ステップ1：テレグラムを開く"、
+        BZ1_Title: 「検索」、
+        Bz2: 「ステップ2：ボットに送信」、
+        Restart_1: "サブスクリプションをリセットしますか？",
+        Restart_2: "あなたの購読アドレスや情報が漏洩している場合、これを行うことができます。リセット後、あなたのUUIDと購読は変更され、再度購読する必要があります。",
     },
     Invite:{
-        Title:'已注册用户数,累计获得佣金,确认中的佣金,当前剩余佣金',
-        Withdrawal:"提现",
-        Withdrawal_Prompt:"提现到填写账户",
-        Withdrawal_Input:"提现到填写账户",
-        Transfer:"资金划转",
-        Transfer_Prompt:"资金转换到余额 可用于购买订阅",
-        Transfer_Input:"请填写金额",
-        Time:"发放时间",
-        Commission:"佣金",
-        Transactions:"交易金额",
-        Status:"状态",
-        Withdrawal_Success:"申请提现成功",
-        Withdrawal_Success_Prompt:"请等待管理员审核",
-        Transfer_assets_Success:"转移资产成功",
+        Title:'サインアップした購読者数,累計獲得コミッション,確認中のコミッション,現在の残りコミッション'、
+        Withdrawal: "退会"、
+        Withdrawal_Prompt: "口座に記入する引き出し"、
+        Withdrawal_Input: "口座に記入する引き出し"、
+        Transfer: 「資金の送金」、
+        Transfer_Prompt: "Funds transferred to Balance Available for subscription purchase" (定期購入可能残高への資金移動)
+        Transfer_Input: "金額を記入"、
+        Time: "リリース時刻"、
+        手数料: "手数料"、
+        Transactions: "取引金額"、
+        Status: "ステータス"、
+        Withdrawal_Success: "引き出しリクエスト成功"、
+        Withdrawal_Success_Prompt: "管理者の審査をお待ちください"、
+        Transfer_assets_Success: "資産の移動に成功しました"、
     },
-    Banner: {
-        Title: "连接保密之路，分享隐私有礼",
-        Title1: "邀请下单反百分之",
-        Copy:"复制链接",
+    バナー: {
+        Title: "Connect the path to confidentiality and share the gift of privacy",,, Title1: "Invitation to place an order",, Banner: {
+        Title1: "反パーセント注文への招待",,, バナー: { タイトル: "反パーセント注文への招待
+        コピー："コピーリンク"、
     },
-    Ticket:{
-        Title:"主题",
-        Time:"最后回复",
-        Status:"状态",
-        Operate:"操作",
-        Status1:"待回复",
-        Status2:"已回复",
-        Status3:"已关闭",
-        Close:"关闭"
+    チケット: {
+        タイトル: "トピック"、
+        時間: "最終返信"、
+        ステータス: "状態",, {
+        Operate: "操作"、
+        Status1: "返信待ち"、
+        Status2: "返信済み"、
+        Status3: "クローズ"、
+        Close: "クローズ"
     },
-    Setting: {
-        Dashboard: "仪表盘",
-        Plan: "套餐",
-        Knowledge: "教程文档",
-        Invite: "推广返利",
-        Ticket: "工单",
-        Go_Out: "退出登录",
-        SendEmail: '发送成功',
-        Email_Prompt: "请到邮箱查看",
-        Email: '邮箱',
-        Email_Input: '请输入邮箱',
-        PassWord: '密码',
-        PassWord_Input: '请输入密码',
-        Code: '验证码',
-        Code_Input: '请输入验证码',
-        Send_Code: "发送验证码",
-        Recommend: "推荐人(可选)",
-        Update_Pass: "修改密码",
+    設定: {
+        Dashboard: "ダッシュボード"、
+        プラン：「パッケージ
+        Knowledge: "チュートリアル・ドキュメント"、
+        Invite: "プロモーション・リベート"、
+        
+        Go_Out: 'ログアウト'、
+        SendEmail: '送信に成功しました、
+        Email_Prompt: 'これを表示するにはメールにアクセスしてください'、
+        Email: 'メールボックス'、
+        Email_Input: 'メールボックスを入力してください'、
+        PassWord: 'パスワード'、
+        PassWord_Input: 'パスワードを入力してください'、
+        Code: 'キャプチャコード'、
+        Code_Input: '認証コードを入力してください'、
+        Send_Code: 'キャプチャを送信'、
+        Recommend: '推薦者（オプション）'、
+        Update_Pass: "パスワードの変更"、
     },
-    homeText: '显示名称',
-    mineText: '个人中心'
+    homeText: '表示名'、
+    mineText: 'パーソナルセンター'
 
 }
