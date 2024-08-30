@@ -11,7 +11,7 @@ window.config={
     //   下载配置
     down:[
         {
-            name:"Pc",
+            name:"Windows",
             title:"Windows用ダウンロード",
             down:[
                 {title:"Clash下载",href:"https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.27/Clash.for.Windows-0.20.27-win.7z"},
@@ -28,7 +28,7 @@ window.config={
             ]
         },
         {
-            name:"Ios",
+            name:"iOS",
             title:"iOS用ダウンロード",
             down:[
                 {title:"Shadowrocket",href:"https://apps.apple.com/us/app/shadowrocket/id932747118?l=zh"},
