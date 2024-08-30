@@ -73,7 +73,7 @@ window.config={
         {
             title:"VPNサブスクリプションを購入する",
             money:10,
-            cent:["支持Chatpt访问","支持Netflix，台湾哔哩哔哩等流媒体","巅峰1000/MS"]
+            cent:["ABEMA、NHK+、Tver、GYAO、アマプラ、Netflix、DAZNなど、海外ではIP制限により視聴できない日本の動画サービスも、KANTAN VPNを利用すれば、自宅の大画面テレビやスマートフォンで日本と同じように視聴できる！"]
         }
     ]
 }
