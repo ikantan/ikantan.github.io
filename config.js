@@ -56,7 +56,7 @@ window.config={
     taocan:[
         {
             title:"VPNサブスクリプションを購入する",
-            money:10,
+            money:月々わずか4ドルから,
             cent:["ABEMA、NHK+、Tver、GYAO、アマプラ、Netflix、DAZNなど、海外ではIP制限により視聴できない日本の動画サービスも、KANTAN VPNを利用すれば、自宅の大画面テレビやスマートフォンで日本と同じように視聴できる！"]
         }
     ]
